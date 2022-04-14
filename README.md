@@ -13,7 +13,7 @@
 1. Clone the repository.
 2. **Run** the following command.
 ```bash
-$ cd jwt-auth-api
+$ cd chat-api
 ```
 ```bash
 $ bundle install
