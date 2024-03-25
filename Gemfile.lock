@@ -69,6 +69,7 @@ GEM
     audited (5.0.2)
       activerecord (>= 5.0, < 7.1)
     awesome_print (1.9.2)
+    base64 (0.2.0)
     bcrypt (3.1.17)
     bootsnap (1.11.1)
       msgpack (~> 1.2)
@@ -115,7 +116,8 @@ GEM
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
-    jwt (2.3.0)
+    jwt (2.8.1)
+      base64
     loofah (2.16.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
